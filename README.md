@@ -29,7 +29,15 @@ BOWTIE 2 is an ultrafast and memory-efficient tool for aligning sequencing reads
 
 FEATURECOUNT: FeatureCounts is a light-weight read counting program written entirely in the C programming language. It can be used to count both gDNA-seq and RNA-seq reads for genomic features in in SAM/BAM files. FeatureCounts is part of the Subread package.
 
-<img width="960" height="580" alt="image" src="https://github.com/user-attachments/assets/11caced7-0c1f-4e95-bdbd-36a970a0091d" />
+<img width="1045" height="568" alt="image" src="https://github.com/user-attachments/assets/d02ecfa2-a3c0-41c4-9093-35acc350d5d8" />
+
+<img width="1021" height="565" alt="image" src="https://github.com/user-attachments/assets/fc9b8872-aacc-440c-b923-886d72b93d42" />
+
+<img width="1037" height="584" alt="image" src="https://github.com/user-attachments/assets/106069a2-3dc1-43ba-846d-db9f5776f11e" />
+
+<img width="1044" height="591" alt="image" src="https://github.com/user-attachments/assets/a2972d45-5be9-465f-a360-45fd0a0d393a" />
+
+
 
 DESeq2 : DESeq2 is a bioinformatics software package used to analyze RNA-sequencing (RNA-seq) data, especially to find differentially expressed genes.
 In simple words DESeq2 helps you answer:Which genes are more or less active between two (or more) biological conditions?
