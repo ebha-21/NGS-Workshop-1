@@ -47,7 +47,19 @@ For example:healthy vs diseased cells
             
 <img width="987" height="590" alt="image" src="https://github.com/user-attachments/assets/b420c85a-8325-44dc-9704-f2d385e58c66" />
 
-<img width="959" height="570" alt="image" src="https://github.com/user-attachments/assets/6afee207-f53e-4f83-802c-95ea91e57d22" />
+<img width="959" height="570" alt="image" src="https://github.com/user-attachments/assets/6afee207-f53e-4f83-802c-95ea91e57d22" /> 
+
+we also worked on a pathway named as kegg pathway 
+The KEGG pathway refers to biological pathway maps provided by KEGG, which stands for Kyoto Encyclopedia of Genes and Genomes.
+A KEGG pathway is a visual and curated map that shows how:Genes, Proteins, Enzymes, Metabolites interact with each other to carry out biological functions inside a cell.
+
+These pathways help us understand how a cell works as a system, not just individual genes.
+
+<img width="1600" height="606" alt="image" src="https://github.com/user-attachments/assets/096c8c3b-0ab5-416e-b90a-b6b6bae4a0f4" />
+
+<img width="1203" height="854" alt="image" src="https://github.com/user-attachments/assets/01ef8f7c-9630-4bb3-bd1c-4c3037288878" />
+
+
 
 
 
